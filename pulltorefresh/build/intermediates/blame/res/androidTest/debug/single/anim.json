@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\Androidworkspace\\secondhand\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\Androidworkspace\\secondhand\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\Androidworkspace\\secondhand\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\Androidworkspace\\secondhand\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\workspace\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "F:\\workspace\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\Androidworkspace\\Test\\TimeWant\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\Androidworkspace\\Test\\TimeWant\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\Androidworkspace\\secondhand\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\Androidworkspace\\secondhand\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Androidworkspace\\Test\\TimeWant\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\Androidworkspace\\Test\\TimeWant\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspace\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "F:\\workspace\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\workspace\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\workspace\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Androidworkspace\\secondhand\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\Androidworkspace\\secondhand\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\Androidworkspace\\Test\\TimeWant\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\Androidworkspace\\Test\\TimeWant\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspace\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\workspace\\Secondhand-Android3\\SecondHand\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\Androidworkspace\\Test\\TimeWant\\pulltorefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\Androidworkspace\\Test\\TimeWant\\pulltorefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    }
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@mipmap/application_search_icon"
+        android:title=""
+        android:orderInCategory="100"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always"
+
+        />
+
+    <item
+
+        android:id="@+id/action_time_want"
+        android:orderInCategory="100"
+        android:title="北京"
+        app:showAsAction="always"
+        />
+</menu>
